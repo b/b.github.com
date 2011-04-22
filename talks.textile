@@ -1,0 +1,12 @@
+---
+layout: default
+title: Talks
+---
+<h2 id="intro">Sometimes I talk.</h2>
+
+<div class="post">
+
+h1. Talks & Conference Participation
+
+* COMING SOON!
+</div>

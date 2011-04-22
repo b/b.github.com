@@ -5,7 +5,7 @@ title: "Service Level Disagreements"
 
 h1. {{ page.title }}
 
-Vijay posted a (better late than never) "rebuttal":http://vijaygill.wordpress.com/2009/07/15/cloud/ to a "post from november last year":http://www.on-demandenterprise.com/features/10_Reasons_Why_Telcos_Will_Dominate_Enterprise_Cloud_Computing_33745549.html by Joe Weinman of AT&T.  I agree with all the points Vijay makes, and want to focus in on a particular area of Joe's article:  
+Vijay posted a (better late than never) "rebuttal":http://vijaygill.wordpress.com/2009/07/15/cloud/ to a "post from November last year":http://www.on-demandenterprise.com/features/10_Reasons_Why_Telcos_Will_Dominate_Enterprise_Cloud_Computing_33745549.html by Joe Weinman of AT&T.  I agree with all the points Vijay makes, and want to focus in on a particular area of Joe's article:  
   
 bq. (4) SLAs with financial penalties -- Not only won't enterprises accept "Well, after all, it's still in beta" as an excuse for service outages, they demand meaningful SLAs (service level agreements) with clear metrics for evaluating achievement of those SLAs, backed up by monitoring and management systems, and financial penalties such as credits or refunds if service levels aren't met. A "free" or low-cost service with questionable delivery quality is about as attractive to a CIO as an offer of free neurosurgery from someone who just skimmed a blog on how to do it in three easy steps.
   

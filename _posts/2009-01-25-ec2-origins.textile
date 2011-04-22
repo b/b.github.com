@@ -1,0 +1,28 @@
+---
+layout: post
+title: "EC2 Origins"
+---
+
+h1. {{ page.title }}
+
+I was trying to avoid writing this post and had succeeded at that goal for almost 2 years. After some recent exchanges, I see the wisest move is the opposite. so, here goes.
+
+In 2003 i was working at Amazon for the best manager I've ever had, Chris Pinkham. Chris had hired me the previous year as a network engineer, quickly promoting me to manager for the (ridiculously awesome) team. Chris was always pushing me to change the infrastructure, especially driving better abstraction and uniformity, essential for efficiently scaling. He wanted an all IP network instead of the mess of VLANs Amazon had at the time, so we designed it, built it, and worked with developers so their applications would work with it. He wanted anycast DNS, so we hacked up some routing software and put it out there (great idea at the time, but in hindsight we probably should've taken a different approach). Chris asked for something, we figured out how, and did it.
+
+Sorry for the digression, back to what i was saying about 2003: Chris and I wrote a short paper describing a vision for Amazon infrastructure that was completely standardized, completely automated, and relied extensively on web services for things like storage. We drew on the work of a number of other folks internally who had been thinking and writing (and sometimes even coding) in the storage services space, and we combined it with our own thinking and experience in infrastructure. Near the end of it, we mentioned the possibility of selling virtual servers as a service.
+
+We presented the paper to Bezos (he doesn't do slides), he liked a lot of it, and we went back to work.
+
+A few months later, in early 2004, I was told Jeff was interested in the virtual server as a service idea and asked for a more detailed write up of it. This I did, also incorporating a couple of requests Jeff had, like the idea of a "universe" of virtuals, which i translated into network-speak as a distributed firewall to isolate groups of servers. This first cut at it looked almost nothing like the production EC2 service, and, in my view, every change made by the team who built EC2 was for the better. As just one example, that first paper called for a system manifest from which a server would be built. This is similar to how much systems automation works, but is actually terrible for the sort of dynamism desired for EC2.
+
+After presenting the "executive brief" paper to Jeff, the realities of turning this hare-brained scheme into a real service meant involving the smartest folks around (i.e., not me). In the Amazon style of "starting from the customer and working backwards", we produced a "press release" and a FAQ to further detail the how and why of what would become EC2. At this point attention turned from these paper pushing exercises to specifics of getting it built. Most importantly, who would lead the effort?
+
+Everyone seemed to leap at once to the same conclusion: Pinkham. And so it was that Pinkham returned to South Africa, taking a stellar lead developer with him, and they built the EC2 team, then built EC2. That last part seems awfully compressed, doesn't it? Well, that's because I had almost no interaction with the EC2 team. They went off and kicked a lot of ass and the rest is history.
+
+The end.
+
+Want more data? Here's Jeff in a 2008 interview with Om Malik...
+
+<embed src="http://blip.tv/play/AbqfeYnBSQ"
+type="application/x-shockwave-flash" width="720" height="510"
+allowscriptaccess="always" allowfullscreen="true"></embed>

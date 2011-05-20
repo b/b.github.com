@@ -5,7 +5,7 @@ title: "Service Level Disagreements, Part 2"
 
 h1. {{ page.title }}
 
-"Yesterday":http://blog.b3k.us/service_level_agreements.html, I explained the dangers of the common misunderstanding of service level agreements as insurance policies.  While I mentioned a strategy of using multiple vendors rather than relying on the SLA offered by a single vendor, some more specific details will be useful in understanding and internalizing this approach.  
+"Yesterday":http://blog.b3k.us/2009/07/15/service-level-disagreements.html, I explained the dangers of the common misunderstanding of service level agreements as insurance policies.  While I mentioned a strategy of using multiple vendors rather than relying on the SLA offered by a single vendor, some more specific details will be useful in understanding and internalizing this approach.  
   
 Over the past ten years I have participated in or lead negotiations for internet and CDN bandwidth at "Internap":http://www.internap.com, "Amazon":http://amazon.com, and "Microsoft":http://microsoft.com.  at first I invested significant time and effort in defining SLAs, methodology, metrics, and penalties, as is common practice.  What eventually became apparent were two things:  
   

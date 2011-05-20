@@ -12,7 +12,7 @@ Over the past ten years I have participated in or lead negotiations for internet
 * Defining meaningful SLAs for public internet services, as opposed to private telco links, is not generally possible.
 * SLA failure penalties are insufficient compensation for business impact.  
   
-From this experience and these realizations i changed my approach significantly.  the two facets of the new strategy were, and are:  
+From this experience and these realizations I changed my approach significantly.  The two facets of the new strategy were, and are:  
   
 * Only enter into contracts with as small a traffic commitment as feasible and with no penalties for termination, regardless of cause.  
 * Engage multiple vendors for all bandwidth services.  

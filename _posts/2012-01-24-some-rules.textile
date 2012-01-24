@@ -5,7 +5,7 @@ title: "Some Rules for Engineering and Operations"
 
 h1. {{ page.title }}
 
-p=(big). The best solution to a problem is not to have it.
+p=. The best solution to a problem is not to have it.
 
 p=. An insufficiently ugly temporary hack is permanent.
 

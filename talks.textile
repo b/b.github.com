@@ -10,10 +10,10 @@ h1. Talks & Conference Participation
 
 <ul>
   <li>
-    July 20, 2010 &mdash; <a href="http://www.youtube.com/watch?v=kRVWjC6osuw">What We Need Are Standards in the Cloud (OSCON 2010)</a>
+    July 25, 2011 &mdash; <a href="http://www.youtube.com/watch?v=ZcKMBmYS24k">Data, Information & Context (OSCON Data 2011)</a>
   </li>
   <li>
-    July 25, 2011 &mdash; <a href="http://www.youtube.com/watch?v=ZcKMBmYS24k">Data, Information & Context (OSCON Data 2011)</a>
+    July 20, 2010 &mdash; <a href="http://www.youtube.com/watch?v=kRVWjC6osuw">What We Need Are Standards in the Cloud (OSCON 2010)</a>
   </li>
 </ul>
 

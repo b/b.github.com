@@ -8,7 +8,7 @@ title: About
 h1. The Author
 
 <img src="images/me.jpg" alt="me">
-I'm Benjamin Black and I'm the co-founder of "Boundary":https://boundary.com.
+I'm Benjamin Black.  I make things.  You might know me from <a href="http://amazon.com">Amazon</a>, <a href="http://microsoft.com">Microsoft</a>, or as the co-foudner of <a href="https://boundary.com">Boundary</a>.
 
 h1. Elsewhere
 
@@ -19,5 +19,5 @@ h1. Elsewhere
 
 h1. Contact
 
-Feel free to email me. For anything work-related, use <a href="mailto:b@boundary.com">b@boundary.com</a>. For everything else, please write <a href="mailto:b@b3k.us">b@b3k.us</a>.
+Feel free to email me at <a href="mailto:b@b3k.us">b@b3k.us</a>.
 </div>

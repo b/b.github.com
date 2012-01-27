@@ -8,7 +8,7 @@ title: About
 h1. The Author
 
 <img src="images/me.jpg" alt="me">
-I'm Benjamin Black.  I make things.  You might know me from <a href="http://amazon.com">Amazon</a>, <a href="http://microsoft.com">Microsoft</a>, or as the co-foudner of <a href="https://boundary.com">Boundary</a>.
+I'm Benjamin Black.  I make things.  You might know me from <a href="http://amazon.com">Amazon</a>, <a href="http://microsoft.com">Microsoft</a>, or as the co-founder of <a href="https://boundary.com">Boundary</a>.
 
 h1. Elsewhere
 
@@ -20,4 +20,8 @@ h1. Elsewhere
 h1. Contact
 
 Feel free to email me at <a href="mailto:b@b3k.us">b@b3k.us</a>.
+
+h1. One more thing
+
+The site design is based on <a href="https://github.com/al3x/al3x.github.com">al3x Payne's</a> and he is kind enough to share.
 </div>

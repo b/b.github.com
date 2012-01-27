@@ -21,7 +21,7 @@ h1. Contact
 
 Feel free to email me at <a href="mailto:b@b3k.us">b@b3k.us</a>.
 
-h1. One more thing
+h1. One More Thing
 
 The site design is based on <a href="https://github.com/al3x/al3x.github.com">al3x Payne's</a> and he is kind enough to share.
 </div>

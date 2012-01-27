@@ -4,6 +4,7 @@ title: "Origins of the Internet: Fundamental Publications"
 ---
 
 h1. Origins of the Internet
+
 h2. Fundamental Publications
 
 I've had a long interest in the origins of the Internet, both the people and the seminal publications.  A few years ago I put together a short presentation on some of that history and how it might relate to the evolution of the cloud:

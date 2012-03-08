@@ -9,7 +9,7 @@ All original textual content is licensed under the "Creative Commons Attribution
 All code is licensed under the "Apache License, Version 2.0":http://www.apache.org/licenses/LICENSE-2.0.html, reproduced below:
 
 <blockquote>
-Copyright 2008-2011 Benjamin Black
+Copyright 2008-2012 Benjamin Black
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

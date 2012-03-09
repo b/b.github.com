@@ -11,7 +11,7 @@ I have thought for some time, though only recently managed to crystalize the ide
   
 and how people think people (and companies) succeed:  
   
-!http://chart.apis.google.com/chart?cht=p&chco=B4045F&chp=2.5&chd=t:8,1,1,90&chs=500x200&chl=Hard%20Work|Discipline|Luck|Talent(how people think people succeed)!
+!/images/success_chart_b.png(how people think people succeed)!
   
 The space between is filled by the "diet books of the business world":http://www.boston.com/bostonglobe/ideas/articles/2009/04/12/luck_inc/ .  In individuals, the disconnect on how they succeeded is prevalent among the beneficiaries of the various technology company millionaire factories.  Those who recognize the importance of hard work and discipline go on to continued success, while those who come to believe the main driver for their success was just their own talent achieve little but frustration.
 

@@ -1,0 +1,6 @@
+---
+layout: post
+title: "The Engineering Activity Spectrum"
+---
+
+!/images/engineering_activity_spectrum.png(Figure 1. The engineering activity spectrum)!

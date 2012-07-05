@@ -19,7 +19,7 @@ The Google Cloud Platform, now synonymous with Google Compute Engine, is the big
 
 The first will cause an explosion in adoption, especially by enterprise customers.  You want to build a 99.99%+ availability system on top of something that has 99.9% availability?  Well, you better have more than one, and now you do.  Here comes the hockey stick!  The second will result in all the usual competition benefits of more aggressive innovation and better prices for customers.
 
-A lot of the chatter I've seen on Twitter and blogs appears to be written by people with don't know or dismiss the enormous advantages Google has in this space and forget what AWS looked like at the start.  The second one is simpler, so I'll start there.  During the initial, private beta for EC2, the same point GCE is now, much of the focus for trial customers was what we would now call Big Data, like batch oil exploration simulations.  Beyond that, AWS was exactly two services: S3 and EC2.  It turns out you can get a hell of a lot done with just compute and object storage.
+During the initial, private beta for EC2, the same point GCE is now, much of the focus for trial customers was what we would now call Big Data, like batch oil exploration simulations.  Beyond that, AWS was exactly two services: S3 and EC2.  It turns out you can get a hell of a lot done with just compute and object storage.
 
 Now take a look at what Google already has for services:
 
@@ -36,9 +36,7 @@ Just from that list, we can see Google is coming out of the gate years ahead of 
 # A sophisticated DNS/traffic management infrastructure (point your resolver at 8.8.8.8 and you are on it) -> Route 53
 # A software load-balancing system supporting everything of theirs you touch -> ELB
 
-How long until these are available to the public and Google has an IaaS offering that rivals AWS in both functionality and scale?  Well, you already know what I think.  It is happening, and fast.  Google makes money on ads, but they are an infrastructure company, just as Amazon makes money selling books, but they are an infrastructure company.  This is big, planetary scale infrastructure.  This is cloud legitimized and super-sized.
-
-In the words of the prophet: "Shit just got real":http://somethingjustgotreal.com.
+How long until these are available to the public and Google has an IaaS offering that rivals AWS in both functionality and scale?  Well, you already know what I think.  It is happening, and fast.
 
 
 h2. The Death of Private Cloud
@@ -47,3 +45,10 @@ With all apologies to the very talented people working in the private cloud aren
 
 For years some people have argued that private clouds should be seen as an interim until we have a true public cloud utility market.  What was the biggest thing stopping that transition?  You got it, the lack of a vendor other than Amazon.  Before GCE, multiple vendors meant AWS and a private cloud (and absurd notions like "cloudbursting").  Now this means AWS and GCE.  The end of that private cloud interim solution is on the horizon.
 
+h3. And so...
+
+A lot of the chatter I've seen on Twitter and blogs appears to be written by people with don't know or dismiss the enormous advantages Google has in this space and forget what AWS looked like at the start.  
+
+You might be tempted to think this isn't Google's core business.  People said the same thing when Amazon launched AWS.  Google makes money on ads, but they are an infrastructure company, just as Amazon makes money selling books, but they are an infrastructure company.  These are infrastructure companies productizing their infrastructure and expertise for consumption by everyone.  This is big, planetary scale infrastructure.  This is cloud legitimized and super-sized.
+
+In the words of the prophet: "Shit just got real":http://somethingjustgotreal.com.

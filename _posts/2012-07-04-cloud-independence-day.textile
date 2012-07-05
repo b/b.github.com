@@ -7,12 +7,12 @@ h1. tl;dr
 
 You're in a rush, so I'll summarize the rest for you:
 
-The "Google Cloud Platform":http://cloud.google.com/products/compute-engine.html is the biggest deal in IT since Amazon launched EC2 and will cause the cloud market to explode.
+The "Google Cloud Platform":http://cloud.google.com/products/compute-engine.html is the biggest deal in IT since Amazon launched EC2 and will cause the cloud market to explode, and the private cloud market to wither and die.
 
 
 h2. Google is Real
 
-The Google Cloud Platform, recently synonymous with Google Compute Engine, is the biggest deal in IT since Amazon launched EC2 and will completely alter the cloud market in at least two fundamental ways:
+The Google Cloud Platform, now synonymous with Google Compute Engine, is the biggest deal in IT since Amazon launched EC2 and will completely alter the cloud market in at least two fundamental ways:
 
 * Google is the second cloud vendor for which everyone has been waiting, even if they didn't know it, and its arrival in IaaS means we have a real utility _market_.  This will cause an explosion in adoption, especially by enterprise customers.  Here comes the hockey stick!
 * GCP/GCE is the first legitimate competition for AWS.  This will result in all the usual competition benefits of more aggressive innovation and better prices for customers.
@@ -30,9 +30,9 @@ Now take a look at what Google already has for services:
 
 Just from that list, we can see Google is coming out of the gate years ahead of where AWS started.  And with 600k+ cores, GCE is about 50x bigger.  You know Google has millions of servers, right?  Google had the benefit 5 of years watching and learning from Amazon, in addition to their prodigious technical capabilities and vast infrastructure.  Beyond these existing services, they have quite a bit of their own infrastructure just begging to be turned into additional products:
 
-# A massive CDN that supports YouTube, a video streaming site you might know &rarr CloudFront
-# A sophisticated DNS/traffic management infrastructure (point your resolver at 8.8.8.8 and you are on it) &rarr Route 53
-# A software load-balancing system supporting everything of theirs you touch &rarr ELB
+# A massive CDN that supports YouTube, a video streaming site you might know -> CloudFront
+# A sophisticated DNS/traffic management infrastructure (point your resolver at 8.8.8.8 and you are on it) -> Route 53
+# A software load-balancing system supporting everything of theirs you touch -> ELB
 
 How long until these are available to the public and Google has an IaaS offering that rivals AWS in both functionality and scale?  Well, you already know what I think.  It is happening, and fast.  Google makes money on ads, but they are an infrastructure company, just as Amazon makes money selling books, but they are an infrastructure company.  This is big, planetary scale infrastructure.  This is cloud legitimized and super-sized.
 

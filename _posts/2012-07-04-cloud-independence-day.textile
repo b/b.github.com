@@ -23,7 +23,7 @@ During the initial, private beta for EC2, the same point GCE is now, much of the
 
 Now take a look at what Google already has for services:
 
-* Cloud Engine is a lot like EC2
+* Cloud Engine is a lot like EC2 & EBS
 * Cloud Storage is a lot like S3
 * Cloud SQL is a lot like RDS
 * Analytics can be used like CloudWatch (and I know of people putting billions of their own data points in Analytics)

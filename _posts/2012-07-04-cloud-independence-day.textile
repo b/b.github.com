@@ -45,5 +45,5 @@ h2. The Death of Private Cloud
 
 With all apologies to the very talented people working in the private cloud arena, a number of whom I know and like: you have 18-24 months and then you're fucked.  Your market is about to shrink 95% and your best hope is probably to get acquired before the private cloud company nuclear winter.  Good luck!
 
-For years some people have argued that private clouds should be seen as an interim until we have a true public cloud utility market.  What was the biggest thing stopping that transition?  You got it, the lack of a vendor other than Amazon.  Before GCE, multiple vendors meant AWS and a private cloud (and absurd notions like "cloudbursting").  Now it means AWS and GCE.  The end of that private cloud interim solution is on the horizon.
+For years some people have argued that private clouds should be seen as an interim until we have a true public cloud utility market.  What was the biggest thing stopping that transition?  You got it, the lack of a vendor other than Amazon.  Before GCE, multiple vendors meant AWS and a private cloud (and absurd notions like "cloudbursting").  Now this means AWS and GCE.  The end of that private cloud interim solution is on the horizon.
 

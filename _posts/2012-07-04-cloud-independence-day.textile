@@ -7,7 +7,7 @@ h1. tl;dr
 
 You're in a rush, so I'll summarize the rest for you:
 
-The "Google Cloud Platform":http://cloud.google.com/products/compute-engine.html is the biggest deal in IT since Amazon launched EC2 and will cause the cloud market to explode, and the private cloud market to wither and die.
+The "Google Cloud Platform":http://cloud.google.com/products/compute-engine.html is the biggest deal in IT since Amazon launched EC2 and will cause the cloud market to explode.
 
 
 h2. Google is Real

@@ -14,10 +14,12 @@ h2. Google is Real
 
 The Google Cloud Platform, now synonymous with Google Compute Engine, is the biggest deal in IT since Amazon launched EC2 and will completely alter the cloud market in at least two fundamental ways:
 
-* Google is the second cloud vendor for which everyone has been waiting, even if they didn't know it, and its arrival in IaaS means we have a real utility _market_.  This will cause an explosion in adoption, especially by enterprise customers.  Here comes the hockey stick!
-* GCP/GCE is the first legitimate competition for AWS.  This will result in all the usual competition benefits of more aggressive innovation and better prices for customers.
+* We now have a utility market
+* We now have true competition
 
-A lot of the chatter I've seen on Twitter and blogs appears to be written by people with don't know or dismiss the enormous advantages Google has in this space and forget what AWS looked like at the start.  The second one is simpler, so I'll start there.  During the initial, private beta for EC2, the same point GCE is  now, much of the focus for trial customers was what we would now call Big Data, like batch oil exploration simulations.  Beyond that, AWS was exactly two services: S3 and EC2.  It turns out you can get a hell of a lot done with just compute and object storage.
+The first will cause an explosion in adoption, especially by enterprise customers.  You want to build a 99.99%+ availability system on top of something that has 99.9% availability?  Well, you better have more than one, and now you do.  Here comes the hockey stick!  The second will result in all the usual competition benefits of more aggressive innovation and better prices for customers.
+
+A lot of the chatter I've seen on Twitter and blogs appears to be written by people with don't know or dismiss the enormous advantages Google has in this space and forget what AWS looked like at the start.  The second one is simpler, so I'll start there.  During the initial, private beta for EC2, the same point GCE is now, much of the focus for trial customers was what we would now call Big Data, like batch oil exploration simulations.  Beyond that, AWS was exactly two services: S3 and EC2.  It turns out you can get a hell of a lot done with just compute and object storage.
 
 Now take a look at what Google already has for services:
 
@@ -28,7 +30,7 @@ Now take a look at what Google already has for services:
 * BigQuery has no AWS equivalent, but maybe you could build it with EMR?
 * PageSpeed has no AWS equivalent
 
-Just from that list, we can see Google is coming out of the gate years ahead of where AWS started.  And with 600k+ cores, GCE is about 50x bigger.  You know Google has millions of servers, right?  Google had the benefit 5 of years watching and learning from Amazon, in addition to their prodigious technical capabilities and vast infrastructure.  Beyond these existing services, they have quite a bit of their own infrastructure just begging to be turned into additional products:
+Just from that list, we can see Google is coming out of the gate years ahead of where AWS started.  And with 600k+ cores, GCE is about 50x bigger.  That is more servers than all but a handful of companies have, and still a tiny fraction of Google's infrastructure.  They also had the benefit 5 of years watching and learning from Amazon, in addition to their prodigious technical capabilities and vast infrastructure.  Beyond these existing services, they have quite a bit of their own infrastructure just begging to be turned into additional products:
 
 # A massive CDN that supports YouTube, a video streaming site you might know -> CloudFront
 # A sophisticated DNS/traffic management infrastructure (point your resolver at 8.8.8.8 and you are on it) -> Route 53
@@ -43,5 +45,5 @@ h2. The Death of Private Cloud
 
 With all apologies to the very talented people working in the private cloud arena, a number of whom I know and like: you have 18-24 months and then you're fucked.  Your market is about to shrink 95% and your best hope is probably to get acquired before the private cloud company nuclear winter.  Good luck!
 
-For years some people have argued that private clouds should be seen as an interim until we have a true public cloud utility market.  What was the biggest thing stopping that transition?  You got it, the lack of a vendor other than Amazon.  Google is that vendor.  You want to build a 99.99%+ availability system on top of something that has 99.9% availability?  Well, you better have more than one.  Before GCE, that meant AWS and a private cloud (and absurd notions like "cloudbursting").  Now it means AWS and GCE.  The end of that private cloud interim solution is on the horizon.
+For years some people have argued that private clouds should be seen as an interim until we have a true public cloud utility market.  What was the biggest thing stopping that transition?  You got it, the lack of a vendor other than Amazon.  Before GCE, multiple vendors meant AWS and a private cloud (and absurd notions like "cloudbursting").  Now it means AWS and GCE.  The end of that private cloud interim solution is on the horizon.
 

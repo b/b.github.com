@@ -23,6 +23,9 @@ The end.
 
 Want more data? Here's Jeff in a 2008 interview with Om Malik...
 
-<embed src="http://blip.tv/play/AbqfeYnBSQ"
-type="application/x-shockwave-flash" width="720" height="510"
-allowscriptaccess="always" allowfullscreen="true"></embed>
+<div id="v-o9nEqEtT-1" class="video-player">
+   <iframe width='1088' height='724' src='https://videopress.com/embed/o9nEqEtT?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1' frameborder='0' allowfullscreen></iframe>
+   <script src='https://s0.wp.com/wp-content/plugins/video/assets/js/next/videopress-iframe.js'></script>
+</div>
+
+

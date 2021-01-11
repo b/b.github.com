@@ -7,6 +7,7 @@ title: About
 # The Author
 
 ![](/images/me.jpg "me")
+
 I'm Benjamin Black.  I make things.  You might know me from [Amazon](http://amazon.com), [Microsoft](http://microsoft.com), or as the co-founder of [Autonomic](https://autonomic.ai).
 
 # Elsewhere

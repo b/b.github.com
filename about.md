@@ -6,7 +6,7 @@ title: About
 
 # The Author
 
-!(/images/me.jpg "me")
+![](/images/me.jpg "me")
 I'm Benjamin Black.  I make things.  You might know me from [Amazon](http://amazon.com), [Microsoft](http://microsoft.com), or as the co-founder of [Autonomic](https://autonomic.ai).
 
 # Elsewhere
@@ -22,4 +22,4 @@ Feel free to email me at <b@b3k.us>.
 
 # One More Thing
 
-The site design is based on [al3x Payne's](https://github.com/al3x/al3x.github.com and he is kind enough to share.
+The site design is based on [al3x Payne's](https://github.com/al3x/al3x.github.com) and he is kind enough to share.
